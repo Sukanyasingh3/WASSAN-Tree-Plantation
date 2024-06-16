@@ -1,7 +1,0 @@
-path: '/content/gdrive/MyDrive/Data_Tree' # dataset root dir
-train: '/content/gdrive/MyDrive/Data_Tree/Images/train'
-val: '/content/gdrive/MyDrive/Data_Tree/Images/val'
-
-# Classes
-nc: 2  # number of classes
-names: ['tree', 'short_tree']
