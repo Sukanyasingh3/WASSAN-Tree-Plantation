@@ -109,3 +109,4 @@ Image(filename='/content/runs/detect/train/train_batch0.jpg', width=1000)
 
 Image(filename='/content/runs/detect/train/val_batch0_labels.jpg', width=900)
 model.val(save_json=True)
+model.save('/content/drive/MyDrive/tree_data_new.pt')
