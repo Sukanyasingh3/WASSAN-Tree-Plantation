@@ -108,4 +108,4 @@ from IPython.display import Image
 Image(filename='/content/runs/detect/train/train_batch0.jpg', width=1000)
 
 Image(filename='/content/runs/detect/train/val_batch0_labels.jpg', width=900)
-
+model.val(save_json=True)
