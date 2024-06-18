@@ -1,6 +1,0 @@
-path: '/content/drive/MyDrive/plantation'
-train:  '/content/drive/MyDrive/dataset/images/train'
-val:  '/content/drive/MyDrive/dataset/images/val'
-
-names:
-  0:  tree
