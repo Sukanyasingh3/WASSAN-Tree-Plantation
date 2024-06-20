@@ -1,5 +1,5 @@
-# WASSAN-Tree-Plantation
-
+# Tree Plantation Detection
+---
 ## Tree Detection using YOLO V8 - Old Dataset
 Trained the YOLOv8n model on the above mentioned dataset, running training for 50 epochs
 
@@ -19,7 +19,9 @@ Trained the YOLOv8n model on the above mentioned dataset, running training for 5
 - Class predictions loss: 0.66644
 - Detection & Localization loss: 1.0533
 
+### Metrics on validation data:
 
+---
 ## Tree Detection using YOLO V8 - New Dataset
 Trained the YOLOv8n model on the above mentioned dataset, running training for 50 epochs
 
