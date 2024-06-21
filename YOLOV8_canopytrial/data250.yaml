@@ -1,0 +1,6 @@
+path: '/content/drive/MyDrive/newcanopy'
+train: '/content/drive/MyDrive/canopydataset/images/train'
+val: '/content/drive/MyDrive/canopydataset/images/val'
+
+names:
+  0: tree
