@@ -1,0 +1,6 @@
+path: '/Users/sukanya/Desktop/Tree Plantation/YOLOV8_Combined/COMBINED'
+train: '/Users/sukanya/Desktop/Tree Plantation/YOLOV8_Combined/COMBINED/images/train'
+val:  '/Users/sukanya/Desktop/Tree Plantation/YOLOV8_Combined/COMBINED/images/val'
+
+names:
+  0:  tree
