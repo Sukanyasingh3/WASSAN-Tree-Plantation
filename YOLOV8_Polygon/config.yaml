@@ -1,6 +1,0 @@
-path: '/Users/sukanya/Downloads/yolo_poly/polygon_data'
-train: '/Users/sukanya/Downloads/yolo_poly/polygon_data/images/train'
-val:  '/Users/sukanya/Downloads/yolo_poly/polygon_data/images/val'
-
-names:
-  0:  tree
