@@ -1,0 +1,8 @@
+path: '/content/drive/MyDrive/Plantation_Dataset'
+train: '/content/drive/MyDrive/Plantation_Dataset/images/train'
+val: '/content/drive/MyDrive/Plantation_Dataset/images/val'
+
+names:
+  0: trees
+ 
+ 
